@@ -37,4 +37,3 @@ plotBrM <-
              pch=21, bg=pointcolor)
     }
   }
-This is a comment
