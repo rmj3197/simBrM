@@ -23,7 +23,9 @@ Imports:
     moments,
     movMF,
     mvtnorm,
-    Rcpp
+    Rcpp,
+    RcppEigen,
+    rgl
 Suggests: 
     knitr,
     rmarkdown
