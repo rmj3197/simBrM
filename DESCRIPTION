@@ -13,6 +13,27 @@ RoxygenNote: 7.2.3
 URL: https://github.com/rmj3197/simBrM
 BugReports: https://github.com/rmj3197/simBrM/issues
 Imports: 
+    clusterRepro,
+    doParallel,
+    foreach,
+    ggplot2,
+    ggpp,
+    ggpubr,
+    mclust,
+    methods,
+    moments,
+    movMF,
+    mvtnorm,
+    Rcpp,
+    RcppEigen,
+    rgl,
+    rlecuyer,
+    rrcov,
+    sn,
+    stats,
+    Tinflex,
+    MASS,
+    cluster,
     graphics,
     stats
 Suggests: 
