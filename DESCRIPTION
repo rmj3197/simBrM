@@ -21,7 +21,9 @@ Imports:
     graphics,
     stats,
     moments,
-    movMF
+    movMF,
+    mvtnorm,
+    Rcpp
 Suggests: 
     knitr,
     rmarkdown
