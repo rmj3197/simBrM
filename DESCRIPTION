@@ -19,7 +19,9 @@ Imports:
     mclust,
     methods,
     graphics,
-    stats
+    stats,
+    moments,
+    movMF
 Suggests: 
     knitr,
     rmarkdown
