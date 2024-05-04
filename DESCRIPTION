@@ -27,7 +27,10 @@ Imports:
     RcppEigen,
     rgl,
     rlecuyer,
-    rrcov
+    rrcov,
+    sn,
+    stats,
+    Tinflex
 Suggests: 
     knitr,
     rmarkdown
