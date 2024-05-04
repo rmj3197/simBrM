@@ -15,6 +15,7 @@ BugReports: https://github.com/rmj3197/simBrM/issues
 Imports: 
     clusterRepro,
     doParallel,
+    foreach,
     graphics,
     stats
 Suggests: 
