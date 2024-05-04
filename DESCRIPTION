@@ -28,9 +28,7 @@ Imports:
     rgl,
     rlecuyer,
     rrcov,
-    sn,
-    stats,
-    Tinflex
+    sn
 Suggests: 
     knitr,
     rmarkdown
