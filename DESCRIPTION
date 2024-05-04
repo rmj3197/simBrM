@@ -25,7 +25,9 @@ Imports:
     mvtnorm,
     Rcpp,
     RcppEigen,
-    rgl
+    rgl,
+    rlecuyer,
+    rrcov
 Suggests: 
     knitr,
     rmarkdown
