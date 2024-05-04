@@ -17,6 +17,7 @@ Imports:
     doParallel,
     foreach,
     mclust,
+    methods,
     graphics,
     stats
 Suggests: 
